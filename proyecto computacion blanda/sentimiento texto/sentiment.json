@@ -1,0 +1,33 @@
+[
+    {"text": "quiero estar solo hoy", "label": "triste"},
+    {"text": "no quiero hablar con nadie", "label": "triste"},
+    {"text": "estoy ansioso por salir ","label":"impaciencia"},
+    {"text": "no me gusta esperar :(","label":"impaciencia"},
+    {"text": "quiero llorar","label":"triste"},
+    {"text": "estoy intraquilo por el examen:(","label":"impaciencia"},
+    {"text": "siento dolor por su partida", "label": "triste"},
+    {"text": "estoy desanimado", "label": "triste"},
+    {"text": "estoy inquieto","label":"impaciencia"},
+    {"text": "estoy preocupado por el examen:(","label":"impaciencia"},
+    {"text": "estoy inquieto","label":"impaciencia"},
+    {"text": "hoy es un bonito dia","label":"positivo"},
+    {"text": "que horrible lugar","label":"negativo"},
+    {"text": "te quiero:(","label":"positivo"},
+    {"text": "que feo carro","label":"negativo"},
+    {"text": "hoy ganara mi equipo:(","label":"positivo"},
+    {"text": "no me gusta ese restaurante","label":"negativo"},
+    {"text": "todo esta bien:(","label":"positivo"},
+    {"text": "todo esta mal","label":"negativo"},
+    {"text": "me alegro que estes bien:(","label":"positivo"},
+    {"text": "deseo que te vaya mal en el examen","label":"negativo"},
+    {"text": "estoy feliz :(","label":"positivo"},
+    {"text": "que mala atencion","label":"negativo"},
+    {"text": "que buena atencion:(","label":"positivo"},
+    {"text": " no sabes manejar","label":"negativo"},
+    {"text": "sabes manejar muy bien:(","label":"positivo"},
+    {"text": "no te quiero","label":"negativo"},
+    {"text": "eres una grandiosa persona:(","label":"positivo"},
+    {"text": "eres una mala persona","label":"negativo"}
+
+
+]
